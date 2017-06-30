@@ -7,14 +7,14 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAArxZUqIqXFUO5HLdKzuIx2gAAAAACAAAAAAAQZgAAAAEAACAAAAAoDHk1jTnXANqGO4svADNKOdxE/4aiFWhN5KE8zWUbuQAAAAAOgAAAAAIAACAAAADZxQ9H8v9P4Rw889RH0mxSJRHBF218Le3DVFiR1IL5FSAAAACmXLKU1bwBQgTuhiBz8pvI3fgUY18WSpaObwYzIvpenUAAAABblYFdQswsI4TCyjhHrTibIHsbi4mnX8gHe04DcnmXKNQPOW/PjTUHBN2XuADoN0G3N9pEtXF5CQQZlKSfj8Wn</EncryptedPassword>
-    <_PublishTargetUrl>ftp:// ftp-eu.myasp.net/ CompanyPage</_PublishTargetUrl>
+    <_PublishTargetUrl>ftp://ftp-eu.myasp.net/CompanyPage</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="appsettings.json">
       <publishTime>06/19/2017 12:06:10</publishTime>
     </File>
     <File Include="CompanyPage.deps.json">
-      <publishTime>06/30/2017 18:25:44</publishTime>
+      <publishTime>06/30/2017 20:14:09</publishTime>
     </File>
     <File Include="CompanyPage.dll">
       <publishTime>06/30/2017 17:38:19</publishTime>
@@ -23,7 +23,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/30/2017 17:38:19</publishTime>
     </File>
     <File Include="CompanyPage.runtimeconfig.json">
-      <publishTime>06/30/2017 18:25:44</publishTime>
+      <publishTime>06/30/2017 20:14:09</publishTime>
     </File>
     <File Include="Microsoft.ApplicationInsights.AspNetCore.dll">
       <publishTime>06/22/2016 12:35:54</publishTime>
@@ -515,7 +515,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/30/2017 15:15:48</publishTime>
     </File>
     <File Include="Views/Partnership/Index.cshtml">
-      <publishTime>06/30/2017 16:18:22</publishTime>
+      <publishTime>06/30/2017 20:00:07</publishTime>
     </File>
     <File Include="Views/Portfolio/Index.cshtml">
       <publishTime>06/30/2017 16:09:54</publishTime>
@@ -527,7 +527,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/19/2017 12:06:05</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>06/30/2017 15:58:18</publishTime>
+      <publishTime>06/30/2017 20:12:58</publishTime>
     </File>
     <File Include="Views/_ViewImports.cshtml">
       <publishTime>06/19/2017 12:06:10</publishTime>
@@ -536,13 +536,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/19/2017 12:06:05</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>06/30/2017 18:25:46</publishTime>
+      <publishTime>06/30/2017 20:14:12</publishTime>
     </File>
     <File Include="wwwroot/css/app.css">
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
     <File Include="wwwroot/css/blocks.css">
-      <publishTime>06/30/2017 17:55:29</publishTime>
+      <publishTime>06/30/2017 19:18:02</publishTime>
     </File>
     <File Include="wwwroot/css/custom.css">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -551,7 +551,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
     <File Include="wwwroot/css/one.style.css">
-      <publishTime>06/30/2017 17:40:26</publishTime>
+      <publishTime>06/30/2017 19:10:48</publishTime>
     </File>
     <File Include="wwwroot/css/pages/portfolio-v1.css">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -569,7 +569,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/01/2016 11:43:16</publishTime>
     </File>
     <File Include="wwwroot/css/site.min.css">
-      <publishTime>06/30/2017 18:25:43</publishTime>
+      <publishTime>06/30/2017 20:14:08</publishTime>
     </File>
     <File Include="wwwroot/css/theme-colors/aqua.css">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -1030,6 +1030,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="wwwroot/js/one.app.js">
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
+    <File Include="wwwroot/js/pages/page_contacts.js">
+      <publishTime>05/07/2016 01:52:53</publishTime>
+    </File>
     <File Include="wwwroot/js/plugins/cube-portfolio/cube-portfolio-lightbox.js">
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
@@ -1374,6 +1377,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="wwwroot/plugins/font-awesome/scss/_variables.scss">
       <publishTime>05/07/2016 01:52:53</publishTime>
+    </File>
+    <File Include="wwwroot/plugins/gmap/gmap.js">
+      <publishTime>06/30/2017 20:11:18</publishTime>
     </File>
     <File Include="wwwroot/plugins/html5shiv.js">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -1856,7 +1862,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
     <File Include="wwwroot/_references.js">
-      <publishTime>06/30/2017 14:22:18</publishTime>
+      <publishTime>06/30/2017 19:50:34</publishTime>
     </File>
   </ItemGroup>
 </Project>

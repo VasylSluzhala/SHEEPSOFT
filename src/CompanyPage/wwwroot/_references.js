@@ -27,7 +27,6 @@
 /// <reference path="plugins/cube-portfolio/cubeportfolio/js/jquery.cubeportfolio.js" />
 /// <reference path="plugins/cube-portfolio/documentation/js/main.js" />
 /// <reference path="plugins/cube-portfolio/documentation/js/prettify.js" />
-/// <reference path="plugins/gmap/gmap.js" />
 /// <reference path="plugins/html5shiv.js" />
 /// <reference path="plugins/jquery.easing.min.js" />
 /// <reference path="plugins/jquery.mixitup.min.js" />
