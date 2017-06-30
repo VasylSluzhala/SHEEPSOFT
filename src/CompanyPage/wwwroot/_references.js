@@ -1,4 +1,5 @@
 ﻿/// <autosync enabled="true" />
+/// <reference path="js/controllers/layoutcontroller.js" />
 /// <reference path="js/forms/contact.js" />
 /// <reference path="js/forms/login.js" />
 /// <reference path="js/one.app.js" />
