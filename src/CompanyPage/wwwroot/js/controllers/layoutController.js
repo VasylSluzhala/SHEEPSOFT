@@ -1,6 +1,7 @@
 ﻿
 function redirectTo(loc) {
     var path = window.location.pathname;
+    // redirect from home
     if (loc === "#partnership") {
         if (path.indexOf("Partnership") === -1)
             window.location.href = "/Partnership";
