@@ -14,7 +14,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/19/2017 12:06:10</publishTime>
     </File>
     <File Include="CompanyPage.deps.json">
-      <publishTime>07/07/2017 18:55:21</publishTime>
+      <publishTime>07/07/2017 19:16:40</publishTime>
     </File>
     <File Include="CompanyPage.dll">
       <publishTime>07/07/2017 16:47:05</publishTime>
@@ -23,7 +23,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/07/2017 16:47:05</publishTime>
     </File>
     <File Include="CompanyPage.runtimeconfig.json">
-      <publishTime>07/07/2017 18:55:22</publishTime>
+      <publishTime>07/07/2017 19:16:40</publishTime>
     </File>
     <File Include="Microsoft.ApplicationInsights.AspNetCore.dll">
       <publishTime>06/22/2016 12:35:54</publishTime>
@@ -527,7 +527,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/19/2017 12:06:05</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>07/07/2017 15:08:19</publishTime>
+      <publishTime>07/07/2017 19:04:13</publishTime>
     </File>
     <File Include="Views/_ViewImports.cshtml">
       <publishTime>06/19/2017 12:06:10</publishTime>
@@ -536,7 +536,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/19/2017 12:06:05</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>07/07/2017 18:55:23</publishTime>
+      <publishTime>07/07/2017 19:16:41</publishTime>
     </File>
     <File Include="wwwroot/css/app.css">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -569,7 +569,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/01/2016 11:43:16</publishTime>
     </File>
     <File Include="wwwroot/css/site.min.css">
-      <publishTime>07/07/2017 18:55:19</publishTime>
+      <publishTime>07/07/2017 19:16:37</publishTime>
     </File>
     <File Include="wwwroot/css/theme-colors/aqua.css">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -1019,7 +1019,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
     <File Include="wwwroot/js/controllers/layoutController.js">
-      <publishTime>07/07/2017 18:51:35</publishTime>
+      <publishTime>07/07/2017 19:04:49</publishTime>
     </File>
     <File Include="wwwroot/js/forms/contact.js">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -1058,7 +1058,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/22/2015 09:21:20</publishTime>
     </File>
     <File Include="wwwroot/js/site.min.js">
-      <publishTime>06/30/2017 18:25:43</publishTime>
+      <publishTime>07/07/2017 19:11:13</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/.bower.json">
       <publishTime>04/25/2016 13:57:34</publishTime>
@@ -1103,7 +1103,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/21/2016 08:29:08</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js">
-      <publishTime>07/07/2017 18:53:22</publishTime>
+      <publishTime>07/07/2017 19:04:45</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js">
       <publishTime>04/25/2016 13:57:34</publishTime>
@@ -1208,10 +1208,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
     <File Include="wwwroot/plugins/bootstrap/js/bootstrap.js">
-      <publishTime>07/07/2017 15:55:47</publishTime>
+      <publishTime>07/07/2017 19:14:46</publishTime>
     </File>
     <File Include="wwwroot/plugins/bootstrap/js/bootstrap.min.js">
-      <publishTime>05/07/2016 01:52:53</publishTime>
+      <publishTime>07/07/2017 19:16:37</publishTime>
     </File>
     <File Include="wwwroot/plugins/bootstrap/js/npm.js">
       <publishTime>05/07/2016 01:52:53</publishTime>
