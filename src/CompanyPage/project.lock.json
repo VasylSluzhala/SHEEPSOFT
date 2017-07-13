@@ -43,10 +43,10 @@
           }
         }
       },
-      "MailKit/1.16.1": {
+      "MailKit/1.16.2": {
         "type": "package",
         "dependencies": {
-          "MimeKit": "1.16.1",
+          "MimeKit": "1.16.2",
           "NETStandard.Library": "1.6.1",
           "Portable.BouncyCastle": "1.8.1.2",
           "System.Data.Common": "4.3.0",
@@ -1663,7 +1663,7 @@
           }
         }
       },
-      "MimeKit/1.16.1": {
+      "MimeKit/1.16.2": {
         "type": "package",
         "dependencies": {
           "NETStandard.Library": "1.6.1",
@@ -4143,12 +4143,12 @@
         "runtimes/win7-x86/native/libuv.dll"
       ]
     },
-    "MailKit/1.16.1": {
-      "sha512": "1X68UT4Nx9RmItCM9nkUGIYAsYLMghCQ+bm1ZOlkYTrobvx8KbyvH7C99Us0gISbbcWNIMo0lroV0wIjCi6w2g==",
+    "MailKit/1.16.2": {
+      "sha512": "+TmqWZlDbON05CpqiH6N++LUtqwW6SjUzc526srAogqJvjeTuAYN6vni5jc+riNBc3CFKS23VlyYqOxlZ943IA==",
       "type": "package",
-      "path": "MailKit/1.16.1",
+      "path": "MailKit/1.16.2",
       "files": [
-        "MailKit.1.16.1.nupkg.sha512",
+        "MailKit.1.16.2.nupkg.sha512",
         "MailKit.nuspec",
         "lib/MonoAndroid10/MailKit.dll",
         "lib/MonoAndroid10/MailKit.xml",
@@ -5475,12 +5475,12 @@
         "runtimes/win/lib/netstandard1.3/Microsoft.Win32.Registry.dll"
       ]
     },
-    "MimeKit/1.16.1": {
-      "sha512": "5d0AImzeQ3VCpLuo3BHRTogmSxZ6LQMklNg0JHzVylgqeenogX47JAK6s9P1DcEUW7EHeWcHW07fASC4HmKbWg==",
+    "MimeKit/1.16.2": {
+      "sha512": "n/yoKMfFXUSUzQPz+wvl+eArDA01XntJ3z40DBUduAEpx8QXEpLMRhr177Lwi23dHRA4/aDqb3+X2b6r/X/1hw==",
       "type": "package",
-      "path": "MimeKit/1.16.1",
+      "path": "MimeKit/1.16.2",
       "files": [
-        "MimeKit.1.16.1.nupkg.sha512",
+        "MimeKit.1.16.2.nupkg.sha512",
         "MimeKit.nuspec",
         "lib/MonoAndroid10/BouncyCastle.dll",
         "lib/MonoAndroid10/MimeKit.dll",
@@ -10619,7 +10619,7 @@
   },
   "projectFileDependencyGroups": {
     "": [
-      "MailKit >= 1.16.1",
+      "MailKit >= 1.16.2",
       "Microsoft.ApplicationInsights.AspNetCore >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics >= 1.0.0",
       "Microsoft.AspNetCore.Mvc >= 1.0.1",
