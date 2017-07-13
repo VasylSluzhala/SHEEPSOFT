@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.0",
-    "signature": "f6f381c34b4a2f4ae568ac618eeb74d6f75e0eca"
+    "signature": "0a7cbb170a44c143f4c90002778301116fd1538e"
   },
   "compilationOptions": {
     "defines": [
@@ -30,8 +30,7 @@
           "Microsoft.Extensions.Logging.Console": "1.0.0",
           "Microsoft.Extensions.Logging.Debug": "1.0.0",
           "Microsoft.Extensions.Options.ConfigurationExtensions": "1.0.0",
-          "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0",
-          "MailKit": "1.16.2"
+          "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0"
         },
         "runtime": {
           "CompanyPage.dll": {}
@@ -40,9 +39,9 @@
           "CompanyPage.dll": {}
         }
       },
-      "MailKit/1.16.2": {
+      "MailKit/1.16.1": {
         "dependencies": {
-          "MimeKit": "1.16.2",
+          "MimeKit": "1.16.1",
           "NETStandard.Library": "1.6.1",
           "Portable.BouncyCastle": "1.8.1.2",
           "System.Data.Common": "4.3.0",
@@ -1327,7 +1326,7 @@
           "ref/netstandard1.3/Microsoft.Win32.Primitives.dll": {}
         }
       },
-      "MimeKit/1.16.2": {
+      "MimeKit/1.16.1": {
         "dependencies": {
           "NETStandard.Library": "1.6.1",
           "Portable.BouncyCastle": "1.8.1.2",
@@ -3655,10 +3654,10 @@
       "serviceable": false,
       "sha512": ""
     },
-    "MailKit/1.16.2": {
+    "MailKit/1.16.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-+TmqWZlDbON05CpqiH6N++LUtqwW6SjUzc526srAogqJvjeTuAYN6vni5jc+riNBc3CFKS23VlyYqOxlZ943IA=="
+      "sha512": "sha512-1X68UT4Nx9RmItCM9nkUGIYAsYLMghCQ+bm1ZOlkYTrobvx8KbyvH7C99Us0gISbbcWNIMo0lroV0wIjCi6w2g=="
     },
     "Microsoft.ApplicationInsights/2.1.0": {
       "type": "package",
@@ -4065,10 +4064,10 @@
       "serviceable": true,
       "sha512": "sha512-9ZQKCWxH7Ijp9BfahvL2Zyf1cJIk8XYLF6Yjzr2yi0b2cOut/HQ31qf1ThHAgCc3WiZMdnWcfJCgN82/0UunxA=="
     },
-    "MimeKit/1.16.2": {
+    "MimeKit/1.16.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-n/yoKMfFXUSUzQPz+wvl+eArDA01XntJ3z40DBUduAEpx8QXEpLMRhr177Lwi23dHRA4/aDqb3+X2b6r/X/1hw=="
+      "sha512": "sha512-5d0AImzeQ3VCpLuo3BHRTogmSxZ6LQMklNg0JHzVylgqeenogX47JAK6s9P1DcEUW7EHeWcHW07fASC4HmKbWg=="
     },
     "NETStandard.Library/1.6.1": {
       "type": "package",

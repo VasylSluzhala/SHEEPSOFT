@@ -10,6 +10,10 @@ function redirectTo(loc) {
         if (path.indexOf("Portfolio") === -1)
             window.location.href = "/Portfolio";
     }
+    else if (loc === "#start") {
+        if (path.indexOf("Portfolio") !== -1) window.location.href = "#portfolio";
+        else if (path.indexOf("Partnership") !== -1) window.location.href = "#partnership";
+    }
     // redirect to home
     else if (path.indexOf("Partnership") !== -1 || path.indexOf("Portfolio") !== -1) {
         window.location.href = "/" + loc;
