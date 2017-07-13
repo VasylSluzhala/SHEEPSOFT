@@ -184,6 +184,11 @@ h1 i, h2 i, h3 i, h4 i, h5 i, h6 i {
 	margin-bottom: 60px;
 }
 
+.title-v1-bottom{
+    margin-bottom:0 !important;
+    margin-top: 20px;
+}
+
 .title-v1 h1,
 .title-v1 h2 {
 	color: #444;

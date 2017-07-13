@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using System.Globalization;
 
 namespace CompanyPage.Controllers
 {
@@ -17,5 +18,6 @@ namespace CompanyPage.Controllers
         {
             return View();
         }
+
     }
 }

@@ -1030,6 +1030,14 @@
 	box-shadow: 0 0 8px #eee;
 }
 
+.service-block-text-center{
+    text-align:center;
+}
+
+.service-block-text-full{
+    text-align:justify;
+}
+
 .service-block-light p,
 .service-block-light h2,
 .service-block-default p,
