@@ -20,5 +20,14 @@ namespace CompanyPage.Controllers
         {
             return View();
         }
+        public IActionResult Atmos()
+        {
+            return View();
+        }
+
+        public IActionResult AtmosNew()
+        {
+            return View();
+        }
     }
 }
