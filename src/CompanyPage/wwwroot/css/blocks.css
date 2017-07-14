@@ -2478,6 +2478,52 @@
   font-size: 48px;
 }
 
+/*Parallax-header
+------------------------------------*/
+.parallax-header-partnership {
+  padding: 60px 0;
+  position:relative;
+  background: url(../img/bg/16.jpg) repeat fixed;
+}
+
+.parallax-header-portfolio {
+  padding: 60px 0;
+  position:relative;
+  background: url(../img/bg/19.jpg) repeat fixed;
+}
+
+.parallax-header-portfolio:before, .parallax-header-partnership:before {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: " ";
+    position: absolute;
+    background: url(../../img/patterns/gridtile.png) center fixed;
+}
+
+.parallax-header-portfolio:after, .parallax-header-partnership:after {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: " ";
+    position: absolute;
+    background: rgba(0,0,0,0.7);
+}
+
+.parallax-header-partnership .parallax-header-portfolio h1 {
+  color: #fff !important;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.parallax-header-partnership .parallax-header-portfolio p {
+  color: #fff !important;
+  font-size: 42px;
+  line-height: 48px;
+}
+
 /*Parallax Counter v1
 ------------------------------------*/
 .parallax-counter-v1 {
@@ -4682,6 +4728,14 @@
   margin: 0 5px;
   padding: 7px 20px;
   text-transform: uppercase;
+}
+
+.rs-caption-4{
+    color: white;
+    position: relative;
+    padding-top: 20px;
+    font-size:16px;
+    white-space: normal !important;
 }
 
 @media (max-width: 768px) {

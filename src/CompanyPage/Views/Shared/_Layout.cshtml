@@ -94,10 +94,10 @@
                             <a href="#feedback" onclick="redirectTo('#feedback')">Feedback</a>
                         </li>
                         <li class="page-scroll">
-                            <a href="/Portfolio/#portfolio" data-target="#portfolio">Portfolio</a>
+                            <a href="#portfolio" onclick="redirectTo('#portfolio')" data-target="#portfolio">Portfolio</a>
                         </li>
                         <li class="page-scroll">
-                            <a href="/Partnership/#partnership" data-target="#partnership">Partnership</a>
+                            <a href="#partnership" onclick="redirectTo('#partnership')" data-target="#partnership">Partnership</a>
                         </li>
                         <li class="page-scroll">
                             <a href="#contact">Contact</a>
@@ -199,7 +199,11 @@
                 <li><a href="#" data-original-title="Pinterest" class="social_pintrest rounded-x"></a></li>
                 <li><a href="#" data-original-title="Linkedin" class="social_linkedin rounded-x"></a></li>
             </ul>
-            <span class="page-scroll"><a href="#intro"><i class="fa fa-angle-double-up back-to-top"></i></a></span>
+            <span class="page-scroll">
+                <a href="#intro" onclick="redirectTo('#start')">
+                    <i class="fa fa-angle-double-up back-to-top"></i>
+                </a>
+            </span>
         </div>
     </section>
     <!-- End Contact Section -->

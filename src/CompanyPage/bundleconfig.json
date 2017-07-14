@@ -20,5 +20,11 @@
     "inputFiles": [
       "wwwroot/plugins/bootstrap/js/bootstrap.js"
     ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+    "inputFiles": [
+      "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
+    ]
   }
 ]
