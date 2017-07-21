@@ -1,1 +1,20 @@
 /* Add here all your css styles (customizations) */
+
+.aboutCustom {
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    width: 69%;
+}
+
+.float-right {
+    float: right !important;
+}
+
+.float-left {
+    float: left !important;
+}
+
+.aboutHeadlines {
+    font-size: 20px;
+}

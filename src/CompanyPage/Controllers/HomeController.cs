@@ -1,14 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Net;
-using System.Threading.Tasks;
 using CompanyPage.Helpers;
 using CompanyPage.ViewModel;
-using MailKit.Net.Smtp;
 using Microsoft.AspNetCore.Mvc;
-using System.Globalization;
-using MimeKit;
 
 namespace CompanyPage.Controllers
 {
@@ -41,11 +36,11 @@ namespace CompanyPage.Controllers
 
                 MailHelper.Send(mailText, subject, mails);
             }
-            catch (Exception e)
+            catch (Exception)
             {
 
                 Response.StatusCode = (int)HttpStatusCode.BadRequest;
-                return Json("Shit");
+                return Json("Service temporary unavailable.");
             }
             return Json(null);
         }

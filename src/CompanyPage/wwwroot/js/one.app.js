@@ -141,7 +141,7 @@ var App = function() {
 
     initParallaxBg: function() {
       $(window).load(function() {
-        jQuery('.parallaxBg').parallax("50%", 0.4);
+        jQuery('.parallaxBg').parallax("50%", 0.2);
         jQuery('.parallaxBg1').parallax("50%", 0.2);
       });
     },
