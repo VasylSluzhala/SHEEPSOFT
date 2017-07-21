@@ -1,1 +1,4 @@
 /* Add here all your css styles (customizations) */
+.carousel-v1 .carousel-caption { /*Put caption input carousel under thead screenshots*/
+    position: relative;
+}

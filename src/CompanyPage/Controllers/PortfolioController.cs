@@ -25,7 +25,20 @@ namespace CompanyPage.Controllers
             return View();
         }
 
+        public IActionResult AtmosOld()
+        {
+            return View();
+        }
+
         public IActionResult AtmosNew()
+        {
+            return View();
+        }
+        public IActionResult PBX()
+        {
+            return View();
+        }
+        public IActionResult RecordingService()
         {
             return View();
         }
