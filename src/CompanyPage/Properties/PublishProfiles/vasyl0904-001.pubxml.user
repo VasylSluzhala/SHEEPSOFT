@@ -17,7 +17,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/04/2016 20:03:10</publishTime>
     </File>
     <File Include="CompanyPage.deps.json">
-      <publishTime>07/14/2017 16:45:29</publishTime>
+      <publishTime>07/14/2017 16:59:52</publishTime>
     </File>
     <File Include="CompanyPage.dll">
       <publishTime>07/14/2017 16:42:54</publishTime>
@@ -26,7 +26,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/14/2017 16:42:54</publishTime>
     </File>
     <File Include="CompanyPage.runtimeconfig.json">
-      <publishTime>07/14/2017 16:45:29</publishTime>
+      <publishTime>07/14/2017 16:59:53</publishTime>
     </File>
     <File Include="MailKit.dll">
       <publishTime>07/01/2017 12:37:24</publishTime>
@@ -755,7 +755,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/14/2017 16:42:05</publishTime>
     </File>
     <File Include="Views/Portfolio/Index.cshtml">
-      <publishTime>07/14/2017 16:41:25</publishTime>
+      <publishTime>07/14/2017 16:58:46</publishTime>
     </File>
     <File Include="Views/Portfolio/Project.cshtml">
       <publishTime>06/30/2017 17:42:18</publishTime>
@@ -773,7 +773,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/19/2017 12:06:05</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>07/14/2017 16:45:30</publishTime>
+      <publishTime>07/14/2017 16:59:55</publishTime>
     </File>
     <File Include="wwwroot/css/app.css">
       <publishTime>07/13/2017 15:47:39</publishTime>
@@ -806,7 +806,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/01/2016 11:43:16</publishTime>
     </File>
     <File Include="wwwroot/css/site.min.css">
-      <publishTime>07/14/2017 16:45:26</publishTime>
+      <publishTime>07/14/2017 16:59:51</publishTime>
     </File>
     <File Include="wwwroot/css/theme-colors/aqua.css">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -1346,7 +1346,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/13/2017 17:51:34</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js">
-      <publishTime>07/14/2017 16:45:26</publishTime>
+      <publishTime>07/14/2017 16:59:51</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/npm.js">
       <publishTime>03/21/2016 08:29:08</publishTime>
@@ -1451,7 +1451,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/13/2017 17:51:12</publishTime>
     </File>
     <File Include="wwwroot/plugins/bootstrap/js/bootstrap.min.js">
-      <publishTime>07/14/2017 16:45:26</publishTime>
+      <publishTime>07/14/2017 16:59:51</publishTime>
     </File>
     <File Include="wwwroot/plugins/bootstrap/js/npm.js">
       <publishTime>05/07/2016 01:52:53</publishTime>
