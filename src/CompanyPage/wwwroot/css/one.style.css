@@ -54,7 +54,7 @@ a:hover {
 
 ::selection {
   color: #fff;
-  background: #72c02c;
+  background: #3498db;
 }
 
 .navbar-fixed-bottom .navbar-collapse,
@@ -148,7 +148,7 @@ a:hover {
 /*Navbar*/
 .one-page-header {
   border-bottom: none;
-  background: rgba(0,0,0,0.4);
+  background: rgba(0,0,0,0.95);
 }
 .one-page-header .container {
   position: relative;

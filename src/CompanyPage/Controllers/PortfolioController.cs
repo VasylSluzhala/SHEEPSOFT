@@ -16,21 +16,12 @@ namespace CompanyPage.Controllers
         {
             return View();
         }
-        public IActionResult Atmos()
+        public IActionResult CallManagementSolution()
         {
             return View();
         }
-
-        public IActionResult AtmosOld()
-        {
-            return View();
-        }
-
-        public IActionResult AtmosNew()
-        {
-            return View();
-        }
-        public IActionResult PBX()
+        
+        public IActionResult CallCenter()
         {
             return View();
         }
