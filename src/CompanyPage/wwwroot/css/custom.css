@@ -25,3 +25,11 @@
 .view a.info:hover {
     background: #3498db !important;
 }
+
+.col-sm-8 .fa-check {
+    margin: 0 5px;
+}
+
+    #screenCarousel .item {
+        cursor: pointer;
+    }
