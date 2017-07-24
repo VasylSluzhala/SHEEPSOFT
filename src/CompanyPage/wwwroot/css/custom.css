@@ -2,3 +2,7 @@
 .carousel-v1 .carousel-caption { /*Put caption input carousel under thead screenshots*/
     position: relative;
 }
+
+.view a.info:hover {
+	background:#555;
+}
