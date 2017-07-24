@@ -8,10 +8,24 @@
 var App = function() {
 
   function handleBootstrap() {
-    /*Bootstrap Carousel*/
+      /*Bootstrap Carousel*/
+
     jQuery('.carousel').carousel({
       interval: 15000,
       pause: 'hover'
+    });
+
+    /*Configuring carousel swiping*/
+    jQuery('.carousel').swipe({
+
+        swipe: function (event, direction, distance, duration, fingerCount, fingerData) {
+
+            if (direction == 'left') $(this).carousel('next');
+            if (direction == 'right') $(this).carousel('prev');
+
+        },
+        allowPageScroll: "vertical"
+
     });
 
     /*Tooltips*/
