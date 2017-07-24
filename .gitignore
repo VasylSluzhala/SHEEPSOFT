@@ -3,3 +3,7 @@
 /src/CompanyPage/bin/Debug/netcoreapp1.0/CompanyPage.dll
 
 /.vs/CompanyPage/v14/.suo
+/src/CompanyPage/bin/Debug/netcoreapp1.0/CompanyPage.runtimeconfig.dev.json
+/src/CompanyPage/obj/Debug/netcoreapp1.0/.IncrementalCache
+/src/CompanyPage/obj/Debug/netcoreapp1.0/dotnet-compile-csc.rsp
+/src/CompanyPage/obj/Debug/netcoreapp1.0/dotnet-compile.rsp
