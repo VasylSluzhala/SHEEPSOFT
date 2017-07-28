@@ -4,7 +4,6 @@
     margin-left: auto;
     margin-right: auto;
     float: none;
-    width: 69%;
 }
 
 .float-right {
@@ -13,6 +12,16 @@
 
 .float-left {
     float: left !important;
+}
+
+@media(max-width: 452px){
+    .float-right {
+    float: none !important;
+}
+
+.float-left {
+    float: none !important;
+}
 }
 
 .aboutHeadlines {
@@ -33,3 +42,4 @@
     #screenCarousel .item {
         cursor: pointer;
     }
+
