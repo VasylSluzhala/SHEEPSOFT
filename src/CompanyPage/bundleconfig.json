@@ -1,21 +1,5 @@
 [
   {
-    "outputFileName": "wwwroot/css/site.min.css",
-    "inputFiles": [
-      "wwwroot/css/site.css"
-    ]
-  },
-  {
-    "outputFileName": "wwwroot/js/site.min.js",
-    "inputFiles": [
-      "wwwroot/js/site.js"
-    ],
-    "minify": {
-      "enabled": true,
-      "renameLocals": true
-    }
-  },
-  {
     "outputFileName": "wwwroot/plugins/bootstrap/js/bootstrap.min.js",
     "inputFiles": [
       "wwwroot/plugins/bootstrap/js/bootstrap.js"
@@ -25,6 +9,30 @@
     "outputFileName": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
     "inputFiles": [
       "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/css/one.style.min.css",
+    "inputFiles": [
+      "wwwroot/css/one.style.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/plugins/revolution-slider/rs-plugin/css/settings.min.css",
+    "inputFiles": [
+      "wwwroot/plugins/revolution-slider/rs-plugin/css/settings.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/plugins/revolution-slider.min.js",
+    "inputFiles": [
+      "wwwroot/js/plugins/revolution-slider.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/plugins/revolution-slider/rs-plugin/css/settings-ie8.min.css",
+    "inputFiles": [
+      "wwwroot/plugins/revolution-slider/rs-plugin/css/settings-ie8.css"
     ]
   }
 ]

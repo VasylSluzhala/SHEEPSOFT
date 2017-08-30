@@ -268,6 +268,30 @@ a:hover {
   }
 }
 
+/*Header content*/
+    .header-img{
+    background-color: rgba(0, 0, 0, 0);
+    background-repeat: no-repeat;
+    background-image: url(/img/sliders/revolution/bg1.jpg);
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    visibility: inherit;
+    }
+
+    .header-img .header-content {
+        text-align: center;
+    }
+
+    .header-content .header-text {
+        position: absolute;
+        top: 50%;
+        left: 0;
+        right: 0;
+    }
+
 /* Top Log-Reg */
 .log-reg-block {
   float: right;
