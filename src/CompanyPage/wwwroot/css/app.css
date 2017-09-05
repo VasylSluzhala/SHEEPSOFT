@@ -2516,6 +2516,11 @@ img.img-center,
 	 border: solid 1px #bbb;
 }
 
+.weare-bg {
+    border: solid 1px #eee;
+    background: #fafafa;
+}
+
 /*CSS3 Hover Effects*/
 .hover-effect {
  transition: all 0.4s ease-in-out;
