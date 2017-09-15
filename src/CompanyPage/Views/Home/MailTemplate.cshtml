@@ -1,0 +1,106 @@
+﻿<style>
+    .container {
+        width: 600px;
+        text-align: center;
+        padding: 0;
+        background: #ebeced;
+    }
+
+        .container #logo {
+            padding: 30px;
+        }
+
+    #blueLine {
+        background-color: rgb(52, 152, 219);
+    width: 600px;
+        height: 10px;
+    }
+
+    #textBlock {
+        padding: 30px;
+        font-size: 16.667px;
+        font-family: "Ebrima";
+        color: rgb(82, 82, 82);
+        line-height: 1.2;
+        text-align: center;
+        background: white;
+        border: 1px solid #edeced;
+    }
+
+    #activateAccount {
+        border-radius: 7px;
+        background-color: rgb(52, 152, 219);
+        width: 332px;
+        height: 48px;
+        text-align: center;
+        width: 300px;
+        margin: 0 auto;
+    }
+
+        #activateAccount span {
+            font-size: 25px;
+            font-family: "Ebrima";
+            color: rgb(252, 252, 252);
+            line-height: 45px;
+            text-align: center;
+        }
+
+    #footer {
+        background: #d2d5d6;
+        width: 600px;
+        height: 100px;
+        text-align: center;
+        width: 600px;
+        margin: 0 auto;
+    }
+
+        #footer div {
+            font-family: "Ebrima";
+            color: rgb(83, 84, 85);
+            line-height: 1.2;
+            text-align: center;
+            font-size: 16px;
+            padding: 40px;
+        }
+</style>
+
+
+<div class="container">
+    <img id="logo" src="~/img/mailTemplate/Bliscore.png" />
+    <div id="blueLine"></div>
+    <img src="~/img/mailTemplate/background.png" />
+    <div id="textBlock">
+        <div>
+            <b>Hello Username</b>
+        </div>
+        <div>Registration completed</div>
+        <br />
+
+        <div>
+            Thank you for joining us
+            <br />
+            Here is your username: <b>username</b>
+        </div>
+
+        <br />
+        <div id="activateAccount">
+            <span>Activate my account</span>
+        </div>
+        <br />
+
+        <div>
+            If you did not attempt to verify your email address
+            <br />
+            with our services, delete this email
+        </div>
+    </div>
+
+    <div id="footer">
+        <div id="site" style="float: left;">
+            <a href="http://bliscore.com/" target="_blank">http://bliscore.com/</a>
+        </div>
+        <div id="mail" style="float: right;">
+            contact@bliscore.com
+        </div>
+    </div>
+</div>
