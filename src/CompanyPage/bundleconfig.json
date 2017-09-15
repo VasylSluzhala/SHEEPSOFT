@@ -40,5 +40,83 @@
     "inputFiles": [
       "wwwroot/js/site.js"
     ]
+  },
+  {
+    "outputFileName": "wwwroot/css/footers/footer-v7.min.css",
+    "inputFiles": [
+      "wwwroot/css/footers/footer-v7.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/css/plugins/animate.min.css",
+    "inputFiles": [
+      "wwwroot/css/plugins/animate.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/plugins/animate.min.css",
+    "inputFiles": [
+      "wwwroot/plugins/animate.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/plugins/line-icons/line-icons.min.css",
+    "inputFiles": [
+      "wwwroot/plugins/line-icons/line-icons.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/plugins/owl-carousel/owl.carousel.min.css",
+    "inputFiles": [
+      "wwwroot/plugins/owl-carousel/owl.carousel.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/css/theme-colors/blue.min.css",
+    "inputFiles": [
+      "wwwroot/css/theme-colors/blue.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/css/theme-skins/one.dark.min.css",
+    "inputFiles": [
+      "wwwroot/css/theme-skins/one.dark.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/css/app.min.css",
+    "inputFiles": [
+      "wwwroot/css/app.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/plugins/smoothScroll.min.js",
+    "inputFiles": [
+      "wwwroot/plugins/smoothScroll.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/plugins/jquery.parallax.min.js",
+    "inputFiles": [
+      "wwwroot/plugins/jquery.parallax.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/one.app.min.js",
+    "inputFiles": [
+      "wwwroot/js/one.app.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/forms/contact.min.js",
+    "inputFiles": [
+      "wwwroot/js/forms/contact.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/js/plugins/owl-carousel.min.js",
+    "inputFiles": [
+      "wwwroot/js/plugins/owl-carousel.js"
+    ]
   }
 ]
