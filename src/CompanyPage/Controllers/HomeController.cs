@@ -19,6 +19,11 @@ namespace CompanyPage.Controllers
             return View();
         }
 
+        public IActionResult MailTemplate()
+        {
+            return View();
+        }
+
         public ActionResult ContactUs(ContactUsViewModel model)
         {
             try
