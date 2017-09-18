@@ -2250,7 +2250,7 @@
   height: auto;
   padding: 50px 0;
   position: relative;
-  background: url(../img/bg/11.jpg) repeat fixed;
+  background: url(../img/bg/11-min.jpg) repeat fixed;
   background-size: cover;
 }
 
@@ -2308,7 +2308,7 @@
   padding: 100px 0;
   position: relative;
   text-align: center;
-  background: url(../img/team/faces.jpg) 50% 0 repeat fixed;
+  background: url(../img/team/faces-min.jpg) 50% 0 repeat fixed;
 }
 
 .parallax-quote:after {
@@ -2416,7 +2416,7 @@
 	[15. Parallax Team]
 ----------------------------------------------------*/
 .parallax-team {
-  background: url(../img/team/faces.jpg) 50% 0 repeat fixed;
+  background: url(../img/team/faces-min.jpg) 50% 0 repeat fixed;
 }
 
 .parallax-team,
@@ -2437,7 +2437,7 @@
 
 /*Parallax Team*/
 .parallax-team {
-  background: url(../img/team/faces.jpg) 50% 0 repeat fixed;
+  background: url(../img/team/faces-min.jpg) 50% 0 repeat fixed;
 }
 
 .parallax-team,
@@ -2483,13 +2483,13 @@
 .parallax-header-partnership {
   padding: 60px 0;
   position:relative;
-  background: url(../img/bg/16.jpg) repeat fixed;
+  background: url(../img/bg/16-min.jpg) repeat fixed;
 }
 
 .parallax-header-portfolio {
   padding: 60px 0;
   position:relative;
-  background: url(../img/bg/19.jpg) repeat fixed;
+  background: url(../img/bg/19-min.jpg) repeat fixed;
 }
 
 .parallax-header-portfolio:before, .parallax-header-partnership:before {
