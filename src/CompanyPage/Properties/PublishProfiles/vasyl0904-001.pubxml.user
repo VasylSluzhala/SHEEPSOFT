@@ -17,16 +17,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/04/2016 20:03:10</publishTime>
     </File>
     <File Include="CompanyPage.deps.json">
-      <publishTime>09/18/2017 14:41:37</publishTime>
+      <publishTime>09/19/2017 12:26:35</publishTime>
     </File>
     <File Include="CompanyPage.dll">
       <publishTime>09/15/2017 17:59:07</publishTime>
     </File>
     <File Include="CompanyPage.pdb">
-      <publishTime>09/15/2017 17:59:07</publishTime>
+      <publishTime>09/19/2017 12:26:28</publishTime>
     </File>
     <File Include="CompanyPage.runtimeconfig.json">
-      <publishTime>09/18/2017 14:41:37</publishTime>
+      <publishTime>09/19/2017 12:26:35</publishTime>
     </File>
     <File Include="MailKit.dll">
       <publishTime>07/01/2017 12:37:24</publishTime>
@@ -743,10 +743,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/05/2016 04:57:34</publishTime>
     </File>
     <File Include="Views/Home/HomeMenu.cshtml">
-      <publishTime>09/05/2017 13:14:49</publishTime>
+      <publishTime>09/19/2017 12:01:25</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>09/18/2017 14:10:13</publishTime>
+      <publishTime>09/19/2017 11:57:38</publishTime>
     </File>
     <File Include="Views/Home/MailTemplate.cshtml">
       <publishTime>09/15/2017 17:58:44</publishTime>
@@ -755,7 +755,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/24/2017 21:27:41</publishTime>
     </File>
     <File Include="Views/Partnership/PartnershipMenu.cshtml">
-      <publishTime>09/05/2017 13:14:59</publishTime>
+      <publishTime>09/19/2017 12:01:41</publishTime>
     </File>
     <File Include="Views/Portfolio/Atmos.cshtml">
       <publishTime>07/21/2017 19:31:13</publishTime>
@@ -767,34 +767,34 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/21/2017 18:58:25</publishTime>
     </File>
     <File Include="Views/Portfolio/CallCenter.cshtml">
-      <publishTime>08/07/2017 12:05:57</publishTime>
+      <publishTime>09/19/2017 12:18:06</publishTime>
     </File>
     <File Include="Views/Portfolio/CallManagementSolution.cshtml">
-      <publishTime>08/07/2017 12:05:59</publishTime>
+      <publishTime>09/19/2017 12:19:18</publishTime>
     </File>
     <File Include="Views/Portfolio/Index.cshtml">
-      <publishTime>08/29/2017 14:12:48</publishTime>
+      <publishTime>09/19/2017 12:15:29</publishTime>
     </File>
     <File Include="Views/Portfolio/PBX.cshtml">
       <publishTime>07/21/2017 19:23:34</publishTime>
     </File>
     <File Include="Views/Portfolio/PortfolioMenu.cshtml">
-      <publishTime>09/15/2017 15:00:32</publishTime>
+      <publishTime>09/19/2017 12:01:54</publishTime>
     </File>
     <File Include="Views/Portfolio/Project.cshtml">
       <publishTime>07/21/2017 13:44:12</publishTime>
     </File>
     <File Include="Views/Portfolio/ProjectMenu.cshtml">
-      <publishTime>09/05/2017 13:15:33</publishTime>
+      <publishTime>09/19/2017 12:02:04</publishTime>
     </File>
     <File Include="Views/Portfolio/RecordingService.cshtml">
-      <publishTime>08/07/2017 12:05:52</publishTime>
+      <publishTime>09/19/2017 12:21:01</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
       <publishTime>06/19/2017 12:06:05</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>09/15/2017 20:23:33</publishTime>
+      <publishTime>09/19/2017 12:02:37</publishTime>
     </File>
     <File Include="Views/_ViewImports.cshtml">
       <publishTime>06/19/2017 12:06:10</publishTime>
@@ -803,16 +803,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/19/2017 12:06:05</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>09/18/2017 14:41:39</publishTime>
+      <publishTime>09/19/2017 12:26:37</publishTime>
     </File>
     <File Include="wwwroot/css/app.css">
       <publishTime>09/05/2017 14:48:11</publishTime>
     </File>
     <File Include="wwwroot/css/app.min.css">
-      <publishTime>09/18/2017 14:41:35</publishTime>
+      <publishTime>09/19/2017 12:26:33</publishTime>
     </File>
     <File Include="wwwroot/css/blocks.css">
       <publishTime>09/18/2017 14:39:15</publishTime>
+    </File>
+    <File Include="wwwroot/css/bundle.css">
+      <publishTime>09/19/2017 12:22:19</publishTime>
     </File>
     <File Include="wwwroot/css/custom.css">
       <publishTime>07/28/2017 16:36:11</publishTime>
@@ -821,13 +824,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/18/2017 14:28:23</publishTime>
     </File>
     <File Include="wwwroot/css/footers/footer-v7.min.css">
-      <publishTime>09/18/2017 14:41:35</publishTime>
+      <publishTime>09/19/2017 12:26:33</publishTime>
     </File>
     <File Include="wwwroot/css/one.style.css">
-      <publishTime>09/15/2017 16:45:12</publishTime>
+      <publishTime>09/19/2017 11:02:35</publishTime>
     </File>
     <File Include="wwwroot/css/one.style.min.css">
-      <publishTime>09/18/2017 14:41:35</publishTime>
+      <publishTime>09/19/2017 12:26:33</publishTime>
     </File>
     <File Include="wwwroot/css/pages/portfolio-v1.css">
       <publishTime>07/14/2017 16:39:24</publishTime>
@@ -836,7 +839,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
     <File Include="wwwroot/css/plugins/animate.min.css">
-      <publishTime>09/18/2017 14:41:35</publishTime>
+      <publishTime>09/19/2017 12:26:33</publishTime>
     </File>
     <File Include="wwwroot/css/plugins/box-shadows.css">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -857,7 +860,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
     <File Include="wwwroot/css/theme-colors/blue.min.css">
-      <publishTime>09/18/2017 14:41:35</publishTime>
+      <publishTime>09/19/2017 12:26:33</publishTime>
     </File>
     <File Include="wwwroot/css/theme-colors/brown.css">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -893,7 +896,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/15/2017 15:10:11</publishTime>
     </File>
     <File Include="wwwroot/css/theme-skins/one.dark.min.css">
-      <publishTime>09/18/2017 14:41:35</publishTime>
+      <publishTime>09/19/2017 12:26:33</publishTime>
     </File>
     <File Include="wwwroot/favicon.ico">
       <publishTime>07/29/2015 15:26:16</publishTime>
@@ -1123,6 +1126,18 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="wwwroot/img/logo.png">
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
+    <File Include="wwwroot/img/Logo200-min.png">
+      <publishTime>09/19/2017 05:00:34</publishTime>
+    </File>
+    <File Include="wwwroot/img/Logo200.png">
+      <publishTime>08/31/2017 14:22:43</publishTime>
+    </File>
+    <File Include="wwwroot/img/LogoSmall100-min.png">
+      <publishTime>09/19/2017 05:00:10</publishTime>
+    </File>
+    <File Include="wwwroot/img/LogoSmall100.png">
+      <publishTime>09/04/2017 13:51:06</publishTime>
+    </File>
     <File Include="wwwroot/img/Logotest.png">
       <publishTime>08/29/2017 13:42:05</publishTime>
     </File>
@@ -1297,8 +1312,14 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="wwwroot/img/portfolio/9.jpg">
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
+    <File Include="wwwroot/img/Portfolio/CallCenter/AgentCallActive-min.png">
+      <publishTime>09/19/2017 05:05:34</publishTime>
+    </File>
     <File Include="wwwroot/img/Portfolio/CallCenter/AgentCallActive.png">
       <publishTime>07/21/2017 18:55:31</publishTime>
+    </File>
+    <File Include="wwwroot/img/Portfolio/CallCenter/AgentCallEnded-min.png">
+      <publishTime>09/19/2017 05:05:36</publishTime>
     </File>
     <File Include="wwwroot/img/Portfolio/CallCenter/AgentCallEnded.png">
       <publishTime>07/21/2017 18:34:26</publishTime>
@@ -1306,47 +1327,92 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="wwwroot/img/Portfolio/CallCenter/desktop.ini">
       <publishTime>07/21/2017 18:58:44</publishTime>
     </File>
+    <File Include="wwwroot/img/Portfolio/CallCenter/Number1-min.png">
+      <publishTime>09/19/2017 05:05:40</publishTime>
+    </File>
     <File Include="wwwroot/img/Portfolio/CallCenter/Number1.png">
       <publishTime>07/21/2017 18:58:44</publishTime>
+    </File>
+    <File Include="wwwroot/img/Portfolio/CallCenter/Numbers-min.png">
+      <publishTime>09/19/2017 05:05:44</publishTime>
     </File>
     <File Include="wwwroot/img/Portfolio/CallCenter/Numbers.png">
       <publishTime>07/21/2017 18:58:44</publishTime>
     </File>
+    <File Include="wwwroot/img/Portfolio/CallCenter/Queues-min.png">
+      <publishTime>09/19/2017 05:05:46</publishTime>
+    </File>
     <File Include="wwwroot/img/Portfolio/CallCenter/Queues.png">
       <publishTime>07/21/2017 14:34:40</publishTime>
+    </File>
+    <File Include="wwwroot/img/Portfolio/CallCenter/Registration2-min.png">
+      <publishTime>09/19/2017 05:05:48</publishTime>
     </File>
     <File Include="wwwroot/img/Portfolio/CallCenter/Registration2.png">
       <publishTime>07/21/2017 18:58:44</publishTime>
     </File>
+    <File Include="wwwroot/img/Portfolio/CallCenter/Registration3-min.png">
+      <publishTime>09/19/2017 05:05:52</publishTime>
+    </File>
     <File Include="wwwroot/img/Portfolio/CallCenter/Registration3.png">
       <publishTime>07/21/2017 18:58:44</publishTime>
+    </File>
+    <File Include="wwwroot/img/Portfolio/CallCenter/Registration4-min.png">
+      <publishTime>09/19/2017 05:05:54</publishTime>
     </File>
     <File Include="wwwroot/img/Portfolio/CallCenter/Registration4.png">
       <publishTime>07/21/2017 18:58:44</publishTime>
     </File>
+    <File Include="wwwroot/img/Portfolio/CallManagementSolution/CallDetails-min.png">
+      <publishTime>09/19/2017 05:10:40</publishTime>
+    </File>
     <File Include="wwwroot/img/Portfolio/CallManagementSolution/CallDetails.png">
       <publishTime>07/14/2017 16:39:24</publishTime>
+    </File>
+    <File Include="wwwroot/img/Portfolio/CallManagementSolution/CallListing-min.png">
+      <publishTime>09/19/2017 05:10:42</publishTime>
     </File>
     <File Include="wwwroot/img/Portfolio/CallManagementSolution/CallListing.png">
       <publishTime>07/14/2017 16:39:24</publishTime>
     </File>
+    <File Include="wwwroot/img/Portfolio/CallManagementSolution/HeartBeats-min.png">
+      <publishTime>09/19/2017 05:10:44</publishTime>
+    </File>
     <File Include="wwwroot/img/Portfolio/CallManagementSolution/HeartBeats.png">
       <publishTime>07/14/2017 16:39:24</publishTime>
+    </File>
+    <File Include="wwwroot/img/Portfolio/CallManagementSolution/Home-min.png">
+      <publishTime>09/19/2017 05:10:46</publishTime>
     </File>
     <File Include="wwwroot/img/Portfolio/CallManagementSolution/Home.png">
       <publishTime>07/14/2017 16:39:24</publishTime>
     </File>
+    <File Include="wwwroot/img/Portfolio/CallManagementSolution/Localization-min.png">
+      <publishTime>09/19/2017 05:10:52</publishTime>
+    </File>
     <File Include="wwwroot/img/Portfolio/CallManagementSolution/Localization.png">
       <publishTime>07/14/2017 16:39:24</publishTime>
+    </File>
+    <File Include="wwwroot/img/Portfolio/CallManagementSolution/Management-min.png">
+      <publishTime>09/19/2017 05:10:54</publishTime>
     </File>
     <File Include="wwwroot/img/Portfolio/CallManagementSolution/Management.png">
       <publishTime>07/14/2017 16:39:24</publishTime>
     </File>
+    <File Include="wwwroot/img/Portfolio/CallManagementSolution/QC-min.png">
+      <publishTime>09/19/2017 05:10:58</publishTime>
+    </File>
     <File Include="wwwroot/img/Portfolio/CallManagementSolution/QC.png">
       <publishTime>07/24/2017 16:56:15</publishTime>
     </File>
+    <File Include="wwwroot/img/Portfolio/CallManagementSolution/Reports-min.png">
+      <publishTime>09/19/2017 05:11:00</publishTime>
+    </File>
     <File Include="wwwroot/img/Portfolio/CallManagementSolution/Reports.png">
       <publishTime>07/14/2017 16:39:24</publishTime>
+    </File>
+    <File Include="wwwroot/img/Portfolio/CallManagementSolution/Settings-min.png">
+      <publishTime>09/19/2017 05:11:02</publishTime>
     </File>
     <File Include="wwwroot/img/Portfolio/CallManagementSolution/Settings.png">
       <publishTime>07/14/2017 16:39:24</publishTime>
@@ -1354,11 +1420,20 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="wwwroot/img/Portfolio/RecordingAndSendingService/desktop.ini">
       <publishTime>07/21/2017 18:58:44</publishTime>
     </File>
+    <File Include="wwwroot/img/Portfolio/RecordingAndSendingService/Evaluated Email-min.png">
+      <publishTime>09/19/2017 05:11:32</publishTime>
+    </File>
     <File Include="wwwroot/img/Portfolio/RecordingAndSendingService/Evaluated Email.png">
       <publishTime>07/21/2017 18:58:44</publishTime>
     </File>
+    <File Include="wwwroot/img/Portfolio/RecordingAndSendingService/WeeklyReview-min.png">
+      <publishTime>09/19/2017 05:11:36</publishTime>
+    </File>
     <File Include="wwwroot/img/Portfolio/RecordingAndSendingService/WeeklyReview.png">
       <publishTime>07/24/2017 22:57:43</publishTime>
+    </File>
+    <File Include="wwwroot/img/Portfolio/RecordingAndSendingService/WeeklyReview1-min.png">
+      <publishTime>09/19/2017 05:11:40</publishTime>
     </File>
     <File Include="wwwroot/img/Portfolio/RecordingAndSendingService/WeeklyReview1.png">
       <publishTime>07/21/2017 18:58:44</publishTime>
@@ -1405,22 +1480,46 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="wwwroot/img/team/img1-md.jpg">
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
+    <File Include="wwwroot/img/team/img1-min.jpg">
+      <publishTime>09/19/2017 04:56:50</publishTime>
+    </File>
     <File Include="wwwroot/img/team/img1-sm.jpg">
+      <publishTime>05/07/2016 01:52:53</publishTime>
+    </File>
+    <File Include="wwwroot/img/team/img1.jpg">
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
     <File Include="wwwroot/img/team/img2-md.jpg">
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
+    <File Include="wwwroot/img/team/img2-min.jpg">
+      <publishTime>09/19/2017 04:56:26</publishTime>
+    </File>
     <File Include="wwwroot/img/team/img2-sm.jpg">
+      <publishTime>05/07/2016 01:52:53</publishTime>
+    </File>
+    <File Include="wwwroot/img/team/img2.jpg">
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
     <File Include="wwwroot/img/team/img3-md.jpg">
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
+    <File Include="wwwroot/img/team/img3-min.jpg">
+      <publishTime>09/19/2017 04:56:28</publishTime>
+    </File>
     <File Include="wwwroot/img/team/img3-sm.jpg">
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
+    <File Include="wwwroot/img/team/img3.jpg">
+      <publishTime>05/07/2016 01:52:53</publishTime>
+    </File>
     <File Include="wwwroot/img/team/img5-md.jpg">
+      <publishTime>05/07/2016 01:52:53</publishTime>
+    </File>
+    <File Include="wwwroot/img/team/img5-min.jpg">
+      <publishTime>09/19/2017 04:56:28</publishTime>
+    </File>
+    <File Include="wwwroot/img/team/img5.jpg">
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
     <File Include="wwwroot/img/testimonials/img1.jpg">
@@ -1447,6 +1546,12 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="wwwroot/img/testimonials/user.jpg">
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
+    <File Include="wwwroot/js/bundle.js">
+      <publishTime>09/19/2017 11:42:48</publishTime>
+    </File>
+    <File Include="wwwroot/js/bundle.min.js">
+      <publishTime>09/19/2017 12:26:33</publishTime>
+    </File>
     <File Include="wwwroot/js/controllers/layoutController.js">
       <publishTime>08/31/2017 16:50:54</publishTime>
     </File>
@@ -1454,7 +1559,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
     <File Include="wwwroot/js/forms/contact.min.js">
-      <publishTime>09/18/2017 14:41:35</publishTime>
+      <publishTime>09/19/2017 12:26:33</publishTime>
     </File>
     <File Include="wwwroot/js/forms/login.js">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -1463,7 +1568,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/15/2017 17:15:13</publishTime>
     </File>
     <File Include="wwwroot/js/one.app.min.js">
-      <publishTime>09/18/2017 14:41:35</publishTime>
+      <publishTime>09/19/2017 12:26:33</publishTime>
     </File>
     <File Include="wwwroot/js/pages/page_contacts.js">
       <publishTime>06/30/2017 20:39:13</publishTime>
@@ -1478,7 +1583,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
     <File Include="wwwroot/js/plugins/owl-carousel.min.js">
-      <publishTime>09/18/2017 14:41:35</publishTime>
+      <publishTime>09/19/2017 12:26:33</publishTime>
     </File>
     <File Include="wwwroot/js/plugins/pace-loader.js">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -1487,7 +1592,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/29/2017 14:19:40</publishTime>
     </File>
     <File Include="wwwroot/js/plugins/revolution-slider.min.js">
-      <publishTime>09/18/2017 14:41:35</publishTime>
+      <publishTime>09/19/2017 12:26:33</publishTime>
     </File>
     <File Include="wwwroot/js/plugins/style-switcher-rtl.js">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -1547,7 +1652,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/23/2017 16:05:27</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js">
-      <publishTime>09/18/2017 14:41:35</publishTime>
+      <publishTime>09/19/2017 12:26:33</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/npm.js">
       <publishTime>03/21/2016 08:29:08</publishTime>
@@ -1655,7 +1760,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/13/2017 17:51:12</publishTime>
     </File>
     <File Include="wwwroot/plugins/bootstrap/js/bootstrap.min.js">
-      <publishTime>09/18/2017 14:41:35</publishTime>
+      <publishTime>09/19/2017 12:26:33</publishTime>
     </File>
     <File Include="wwwroot/plugins/bootstrap/js/npm.js">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -1838,7 +1943,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
     <File Include="wwwroot/plugins/jquery.parallax.min.js">
-      <publishTime>09/18/2017 14:41:35</publishTime>
+      <publishTime>09/19/2017 12:26:33</publishTime>
     </File>
     <File Include="wwwroot/plugins/jquery/jquery-migrate.js">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -1883,7 +1988,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
     <File Include="wwwroot/plugins/line-icons/line-icons.min.css">
-      <publishTime>09/18/2017 14:41:35</publishTime>
+      <publishTime>09/19/2017 12:26:33</publishTime>
     </File>
     <File Include="wwwroot/plugins/line-icons/Readme.txt">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -1937,7 +2042,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
     <File Include="wwwroot/plugins/owl-carousel/owl.carousel.min.css">
-      <publishTime>09/18/2017 14:41:35</publishTime>
+      <publishTime>09/19/2017 12:26:33</publishTime>
     </File>
     <File Include="wwwroot/plugins/owl-carousel/owl.carousel.min.js">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -2087,13 +2192,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/07/2016 01:52:53</publishTime>
     </File>
     <File Include="wwwroot/plugins/revolution-slider/rs-plugin/css/settings-ie8.min.css">
-      <publishTime>09/18/2017 14:41:35</publishTime>
+      <publishTime>09/19/2017 12:26:33</publishTime>
     </File>
     <File Include="wwwroot/plugins/revolution-slider/rs-plugin/css/settings.css">
       <publishTime>09/15/2017 15:10:02</publishTime>
     </File>
     <File Include="wwwroot/plugins/revolution-slider/rs-plugin/css/settings.min.css">
-      <publishTime>09/18/2017 14:41:35</publishTime>
+      <publishTime>09/19/2017 12:26:33</publishTime>
     </File>
     <File Include="wwwroot/plugins/revolution-slider/rs-plugin/font/revicons.eot">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -2258,7 +2363,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/15/2017 16:50:40</publishTime>
     </File>
     <File Include="wwwroot/plugins/smoothScroll.min.js">
-      <publishTime>09/18/2017 14:41:35</publishTime>
+      <publishTime>09/19/2017 12:26:33</publishTime>
     </File>
     <File Include="wwwroot/plugins/wow/.travis.yml">
       <publishTime>05/07/2016 01:52:53</publishTime>
@@ -2456,7 +2561,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/21/2017 18:58:44</publishTime>
     </File>
     <File Include="wwwroot/_references.js">
-      <publishTime>09/15/2017 17:59:14</publishTime>
+      <publishTime>09/19/2017 11:42:50</publishTime>
     </File>
   </ItemGroup>
 </Project>

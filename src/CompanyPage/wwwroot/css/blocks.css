@@ -4350,7 +4350,7 @@
 
 .blog-thumb .blog-thumb-hover:hover .hover-grad {
   opacity: 1;
-  transform 0.55s;
+  transform: 0.55s;
   transition: opacity 0.55s,
 }
 
@@ -6116,7 +6116,7 @@
 	line-height: 28px;
 	text-align: center;
 	margin-right: 15px;
-	display: inline-block;
+	/*display: inline-block;*/
 }
 
 .content-boxes-v5:hover i {
@@ -7793,7 +7793,7 @@ img.img-mouse {
 	line-height: 17px;
 	margin-right: 20px;
 	text-align: center;
-	display: inline-block;
+	/*display: inline-block;*/
 	border: 1px solid #777;
 }
 
