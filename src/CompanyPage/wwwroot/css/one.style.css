@@ -7,8 +7,9 @@
 */
 
 /*Import Global Compulsory CSS Files*/
-@import url(app.min.css);
-@import url(blocks.css);
+/*todo: import*/
+/*@import url(app.min.css);
+@import url(blocks.css);*/
 
 body {
   width: 100%;

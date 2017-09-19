@@ -118,5 +118,45 @@
     "inputFiles": [
       "wwwroot/js/plugins/owl-carousel.js"
     ]
+  },
+  {
+    "outputFileName": "wwwroot/js/bundle.js",
+    "inputFiles": [
+      "wwwroot/lib/jquery/dist/jquery.js",
+      "wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "wwwroot/js/plugins/revolution-slider.js",
+      "wwwroot/plugins/smoothScroll.js",
+      "wwwroot/plugins/jquery.easing.min.js",
+      "wwwroot/plugins/jquery.parallax.js",
+      "wwwroot/plugins/counter/waypoints.js",
+      "wwwroot/plugins/owl-carousel/owl.carousel.js",
+      "wwwroot/plugins/sky-forms-pro/skyforms/js/jquery.form.min.js",
+      "wwwroot/plugins/sky-forms-pro/skyforms/js/jquery.validate.min.js",
+      "wwwroot/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.tools.min.js",
+      //"wwwroot/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.revolution.js",
+      "wwwroot/js/one.app.js",
+      "wwwroot/js/forms/contact.js",
+      "wwwroot/js/plugins/owl-carousel.js",
+      "wwwroot/js/controllers/layoutController.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/css/bundle.css",
+    "inputFiles": [
+      "wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "wwwroot/css/app.css",
+      "wwwroot/css/blocks.css",
+      "wwwroot/css/one.style.css",
+      "wwwroot/plugins/revolution-slider/rs-plugin/css/settings.css",
+      "wwwroot/css/footers/footer-v7.css",
+      "wwwroot/css/plugins/animate.css",
+      "wwwroot/plugins/line-icons/line-icons.css",
+      "wwwroot/plugins/font-awesome/css/font-awesome.css",
+      "wwwroot/plugins/owl-carousel/owl.carousel.css",
+      "wwwroot/css/theme-colors/blue.css",
+      "wwwroot/css/theme-skins/one.dark.css",
+      "wwwroot/css/custom.css",
+      "wwwroot/css/pages/portfolio-v1.css"
+    ]
   }
 ]
