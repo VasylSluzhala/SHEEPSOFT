@@ -10376,6 +10376,11 @@ img.img-center,
 	text-decoration: none;
 }
 
+.service-block-img {
+    align-content:center;
+    padding-bottom:20px;
+}
+
 .service-block-light,
 .service-block-default {
 	background: #fafafa;
@@ -10445,6 +10450,15 @@ img.img-center,
 }
 .service-block-light {
 	background: #ecf0f1;
+}
+
+.service-block-darkwhite {
+    background: #ecf0f1;
+    border-top: solid 2px #3498DB;
+}
+
+.service-block-darkwhite p{
+    color: #555 !important;
 }
 
 /* Funny Boxes
@@ -14030,10 +14044,20 @@ img.img-center,
   color: #fff;
   font-size: 36px;
   font-weight: 200;
-  padding: 6px 75px;
+  /*padding: 6px 75px;*/
   position: relative;
   /*border-top: solid 1px #fff;
   border-bottom: solid 1px #fff;*/
+}
+.rs-caption-1:after {
+  left: 50%;
+  content: "";
+  height: 1px;
+  width: 100px;
+  bottom: -10px;
+  background: #fff;
+  margin-left: -50px;
+  position: absolute;
 }
 
 /*.rs-caption-1:after,
@@ -14065,11 +14089,11 @@ img.img-center,
   font-size: 26px;
   font-weight: 200;
   line-height: 40px;
-  padding: 10px 50px;
+  padding: 30px 50px 10px 50px;
   text-align: center;
 }
 
-.rs-caption-2:after {
+/*.rs-caption-2:after {
   left: 50%;
   content: "";
   height: 1px;
@@ -14078,7 +14102,7 @@ img.img-center,
   background: #fff;
   margin-left: -50px;
   position: absolute;
-}
+}*/
 
 .rs-caption-3 a {
   margin: 0 5px;
