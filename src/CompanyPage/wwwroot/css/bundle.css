@@ -14163,6 +14163,7 @@ img.img-center,
     padding-top: 20px;
     font-size:16px;
     white-space: normal !important;
+    z-index:1;
 }
 
 @media (max-width: 768px) {
@@ -23952,11 +23953,11 @@ body.dark .copyright-section i.back-to-top {
     -o-transform: scale(2) rotate(10deg);
     -ms-transform: scale(2) rotate(10deg);
     transform: scale(2) rotate(10deg);*/
-     -webkit-transform: scale(2);
-    -moz-transform: scale(2);
-    -o-transform: scale(2);
-    -ms-transform: scale(2);
-    transform: scale(2);
+     -webkit-transform: scale(1.4);
+    -moz-transform: scale(1.4);
+    -o-transform: scale(1.4);
+    -ms-transform: scale(1.4);
+    transform: scale(1.4);
     -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=30)";
     filter: alpha(opacity=30);
     opacity: 0.3;
