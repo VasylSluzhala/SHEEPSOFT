@@ -1008,7 +1008,11 @@
 .service-block {
 	padding: 20px 30px;
 	text-align: center;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
+}
+
+.service-block-top {
+	margin-bottom: 10px !important;
 }
 
 .service-block p,
@@ -4690,6 +4694,7 @@
   font-weight: 200;
   /*padding: 6px 75px;*/
   position: relative;
+  z-index:1;
   /*border-top: solid 1px #fff;
   border-bottom: solid 1px #fff;*/
 }
@@ -4735,8 +4740,19 @@
   line-height: 40px;
   padding: 30px 50px 10px 50px;
   text-align: center;
+  z-index:1;
 }
 
+.rs-caption-2-noresponcive {
+  color: #fff;
+  position: relative;
+  font-size: 26px;
+  font-weight: 200;
+  line-height: 40px;
+  padding: 30px 50px 10px 50px;
+  text-align: center;
+  z-index:1;
+}
 /*.rs-caption-2:after {
   left: 50%;
   content: "";
