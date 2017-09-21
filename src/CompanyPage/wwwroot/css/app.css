@@ -1059,6 +1059,12 @@ a.btn-u-xs {
  color: #555 !important;
 }
 
+.btn-u.btn-brd.btn-u-light-custom {
+    color: #555;
+	border-color: #fff;
+    background:#fff;
+}
+
 /*Dropdown Buttons
 ------------------------------------*/
 .dropdown-show {
@@ -2342,6 +2348,31 @@ img.image-md {
 	.md-margin-bottom-60 {
 		margin-bottom: 60px;
 	}
+}
+
+@media (max-width: 992px) {
+       .btn-u-light-custom{
+        font-size:16px !important;
+    }
+    .rs-caption-2{
+        font-size:22px !important;
+    }
+    .rs-caption-1{
+        font-size:30px !important;
+    }
+}
+
+@media (max-width: 768px) {
+
+    .btn-u-light-custom{
+        font-size:14px !important;
+    }
+    .rs-caption-2{
+        font-size:18px !important;
+    }
+    .rs-caption-1{
+        font-size:26px !important;
+    }
 }
 
 /*Other Spaces*/

@@ -285,11 +285,12 @@ a:hover {
 
     .header-img .header-content {
         text-align: center;
+        align-content:center;
     }
 
     .header-content .header-text {
         position: absolute;
-        top: 50%;
+        top: 36%;
         left: 0;
         right: 0;
     }
