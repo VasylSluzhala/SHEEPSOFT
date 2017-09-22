@@ -42,3 +42,8 @@
     #screenCarousel .item {
         cursor: pointer;
     }
+
+.partnership-block > p {
+    margin: 0;
+    text-align: left;
+}
