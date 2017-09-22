@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using Microsoft.AspNetCore.ResponseCompression;
+using System.IO.Compression;
 
 namespace CompanyPage
 {
@@ -34,8 +36,20 @@ namespace CompanyPage
         public void ConfigureServices(IServiceCollection services)
         {
             // Add framework services.
-            services.AddApplicationInsightsTelemetry(Configuration);
+            //services.AddResponseCompression();
+            services.AddResponseCompression(options =>
+            {
+                options.Providers.Add<GzipCompressionProvider>();
+               // options.Providers.Add<CustomCompressionProvider>();
+                options.MimeTypes = ResponseCompressionDefaults.MimeTypes.Concat(new[] { "image/svg+xml", "image/jpeg", "image/png" });
+            });
 
+            services.Configure<GzipCompressionProviderOptions>(options =>
+            {
+                options.Level = CompressionLevel.Fastest;
+            });
+
+            services.AddApplicationInsightsTelemetry(Configuration);
             services.AddMvc();
         }
 
@@ -45,6 +59,7 @@ namespace CompanyPage
             loggerFactory.AddConsole(Configuration.GetSection("Logging"));
             loggerFactory.AddDebug();
 
+            app.UseResponseCompression();
             app.UseApplicationInsightsRequestTelemetry();
 
             if (env.IsDevelopment())
