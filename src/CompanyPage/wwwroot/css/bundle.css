@@ -23765,6 +23765,11 @@ body.dark .copyright-section i.back-to-top {
     #screenCarousel .item {
         cursor: pointer;
     }
+
+.partnership-block > p {
+    margin: 0;
+    text-align: left;
+}
 /*Portfolio v1
 ------------------------------------*/
 .view {
