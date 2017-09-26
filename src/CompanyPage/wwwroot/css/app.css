@@ -1065,6 +1065,13 @@ a.btn-u-xs {
     background:#fff;
 }
 
+.btn-u.btn-brd.btn-u-blue-custom {
+    color: #fff;
+	border-color: #3498DB;
+    background:#3498DB;
+    padding:9px 25px;
+}
+
 /*Dropdown Buttons
 ------------------------------------*/
 .dropdown-show {
