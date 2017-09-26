@@ -38,7 +38,10 @@
 .col-sm-8 .fa-check {
     margin: 0 5px;
 }
-
+#screenCarousel {
+    
+    margin: 0 -15px;
+}
     #screenCarousel .item {
         cursor: pointer;
     }

@@ -134,7 +134,8 @@
       "wwwroot/js/one.app.js",
       "wwwroot/js/forms/contact.js",
       "wwwroot/js/plugins/owl-carousel.js",
-      "wwwroot/js/controllers/layoutController.js"
+      "wwwroot/js/controllers/layoutController.js",
+      "wwwroot//js/plugins/jquery.touchSwipe.min.js"
     ]
   },
   {
