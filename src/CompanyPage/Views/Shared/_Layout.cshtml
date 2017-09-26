@@ -45,7 +45,7 @@
         <!--[if lt IE 9]><link rel="stylesheet" href="~/plugins/revolution-slider/rs-plugin/css/settings-ie8.min.css" type="text/css" media="screen"><![endif]-->
     </environment>
 
-
+    <script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>
     @Html.ApplicationInsightsJavaScript(TelemetryConfiguration)
 </head>
 <body data-spy="scroll" data-target=".one-page-header" class="demo-lightbox-gallery">
@@ -63,10 +63,22 @@
             <div class="row contacts-in">
                 <div class="col-md-6 md-margin-bottom-40">
                     <ul class="list-unstyled">
-                        <li><i class="fa fa-home"></i> 5B Streat, City 50987 New Town US</li>
-                        <li><i class="fa fa-phone"></i> 1(800) 220 084</li>
-                        <li><i class="fa fa-envelope"></i> <a href="info@example.com">info@example.com</a></li>
-                        <li><i class="fa fa-globe"></i> <a href="http://htmlstream.com">www.htmlstream.com</a></li>
+                        <li><i class="fa fa-home"></i> 273 Zelena Lviv, Ukraine</li>
+                        @*<li><i class="fa fa-phone"></i> 1(800) 220 084</li>*@
+                        <li hidden><i class="fa fa-skype"></i> <div id="SkypeButton_Call_vasyl0904_1">
+                            <script type="text/javascript">
+                         Skype.ui({
+                         "name": "chat",
+                         "element": "SkypeButton_Call_vasyl0904_1",
+                         "participants": ["vasyl0904"],
+                         "imageColor": "white"
+                         });
+                            </script>
+                        </div>
+                        </li>
+                        <li><i class="fa fa-skype"></i> <a href="javascript://" onclick="SkypeWebControl.SDK.Chat.startChat({ConversationType: 'person', ConversationId: 'vasyl0904'});">Skype Chat</a></li>
+                        <li><i class="fa fa-envelope"></i> <a href="mailto:info@bliscore.com">info@bliscore.com</a></li>
+                        @*<li><i class="fa fa-globe"></i> <a href="http://htmlstream.com">www.htmlstream.com</a></li>*@
                     </ul>
                 </div>
                 <div class="col-md-6">
