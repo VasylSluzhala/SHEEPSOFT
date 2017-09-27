@@ -6,6 +6,7 @@
 /// <reference path="js/one.app.js" />
 /// <reference path="js/pages/page_contacts.js" />
 /// <reference path="js/plugins/cube-portfolio/cube-portfolio-lightbox.js" />
+/// <reference path="js/plugins/jquery.touchswipe.js" />
 /// <reference path="js/plugins/owl-carousel.js" />
 /// <reference path="js/plugins/owl-carousel-rtl.js" />
 /// <reference path="js/plugins/pace-loader.js" />

@@ -38,11 +38,20 @@
 .col-sm-8 .fa-check {
     margin: 0 5px;
 }
-
+#screenCarousel {
+    
+    margin: 0 -15px;
+}
     #screenCarousel .item {
         cursor: pointer;
     }
 
+    /*Borders aroung header*/
+    .col-sm-6>.mask {
+            height: 100%;
+    border: 2px solid #f2f2f2;
+    border-bottom: none;
+    }
 .partnership-block > p {
     margin: 0;
     text-align: left;

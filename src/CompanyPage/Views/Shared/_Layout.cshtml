@@ -187,13 +187,18 @@
     
     <script>
 		jQuery(document).ready(function() {
-		    App.init()
+		    App.init();
 			App.initParallaxBg();
 			//ContactPage.initMap();
 			ContactForm.initContactForm();
 			OwlCarousel.initOwlCarousel();
-			RevolutionSlider.initRSfullScreen();
+
+
 		});
+
+		function menuSelect(url) {
+		    window.location = url;
+		}
     </script>
     @RenderSection("scripts", required: false)
     <!--[if lt IE 9]>

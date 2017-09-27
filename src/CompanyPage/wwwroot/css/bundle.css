@@ -7826,6 +7826,13 @@ a.btn-u-xs {
     background:#fff;
 }
 
+.btn-u.btn-brd.btn-u-blue-custom {
+    color: #fff;
+	border-color: #3498DB;
+    background:#3498DB;
+    padding:9px 25px;
+}
+
 /*Dropdown Buttons
 ------------------------------------*/
 .dropdown-show {
@@ -23775,11 +23782,20 @@ body.dark .copyright-section i.back-to-top {
 .col-sm-8 .fa-check {
     margin: 0 5px;
 }
-
+#screenCarousel {
+    
+    margin: 0 -15px;
+}
     #screenCarousel .item {
         cursor: pointer;
     }
 
+    /*Borders aroung header*/
+    .col-sm-6>.mask {
+            height: 100%;
+    border: 2px solid #f2f2f2;
+    border-bottom: none;
+    }
 .partnership-block > p {
     margin: 0;
     text-align: left;
@@ -23857,11 +23873,12 @@ body.dark .copyright-section i.back-to-top {
     left: 10px;
     margin-left: -10px;
     position: relative;
-    -webkit-transition: all 0.6s ease-in-out;
-    -moz-transition: all 0.6s ease-in-out;
-    -o-transition: all 0.6s ease-in-out;
-    -ms-transition: all 0.6s ease-in-out;
-    transition: all 0.6s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
 }
 
 .view-tenth .mask {
@@ -23972,14 +23989,14 @@ body.dark .copyright-section i.back-to-top {
     -o-transform: scale(2) rotate(10deg);
     -ms-transform: scale(2) rotate(10deg);
     transform: scale(2) rotate(10deg);*/
-     -webkit-transform: scale(1.4);
-    -moz-transform: scale(1.4);
-    -o-transform: scale(1.4);
-    -ms-transform: scale(1.4);
-    transform: scale(1.4);
-    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=30)";
-    filter: alpha(opacity=30);
-    opacity: 0.3;
+     -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    filter: alpha(opacity=50);
+    opacity: 0.5;
 }
 
 .view-tenth:hover .mask {
