@@ -14856,7 +14856,8 @@ if ( typeof Object.create !== "function" ) {
 
 var App = function() {
 
-  function handleBootstrap() {
+    function handleBootstrap() {
+
       /*Bootstrap Carousel*/
 
     jQuery('.carousel').carousel({
